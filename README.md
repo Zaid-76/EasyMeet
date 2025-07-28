@@ -35,7 +35,7 @@ IMPORTANT POINTS:
 
 FUTURE ADD-ON'S:
 . Error/Exception handling 
-. Extracting the tasks that to be done and their timilines from the text and updating the calender with those extracted tasks
+. Extracting the tasks that are to be done and their timelines from the text and updating the calender with those extracted tasks
 
 THIS APPLICATION CAN BE EXECUTED THROUGH THE "main.py" FILE. MAKE SURE U HAVE THE MODULES/LIBRARIES GIVEN IN THE REQUIREMENTS LIST!
 
