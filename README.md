@@ -37,7 +37,7 @@ FUTURE ADD-ON'S:
 . Error/Exception handling 
 . Extracting the tasks that to be done and their timilines from the text and updating the calender with those extracted tasks
 
-
+THIS APPLICATION CAN BE EXECUTED THROUGH THE "main.py" FILE. MAKE SURE U HAVE THE MODULES/LIBRARIES GIVEN IN THE REQUIREMENTS LIST!
 
 FOLLOW UP FOR MORE AND MORE EXCITING UPDATES!
 BOOYAH!!!!!!!!
